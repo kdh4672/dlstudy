@@ -3,4 +3,4 @@
 # Project List
 
 ## Weak 1.
-- TODO : VAE tutorial on my face dataset.
+- TODO : Training VAE by my face dataset to generate new face data.
