@@ -7,6 +7,7 @@
 - Implementation Complemented! [[Face_VAE_Code](https://github.com/kdh4672/Face_VAE/blob/master/VAE/VAE_Face.py)]
 - VAE_Paper :  [[VAE_Paper link](https://arxiv.org/pdf/1312.6114.pdf?source=post_page---------------------------)]
 - VAE_Review : [[VAE_Review link](https://github.com/kdh4672/Daehyeon.github.io/blob/master/Paper_Review/VAE.pdf)]
+- Face_VAE_Repository : [Repository_link](https://github.com/kdh4672/Face_VAE/tree/master/VAE)
 
 ## Training VAE gif
 ![faces_n1](https://user-images.githubusercontent.com/54311546/87400438-c6b99f80-c5f3-11ea-8ef4-52d0881840cd.gif)
