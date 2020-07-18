@@ -17,3 +17,5 @@
 ## Training VAE result (Sampled at z_mean -3~3)
 ![VAE_result](https://user-images.githubusercontent.com/54311546/87406921-667b2b80-c5fc-11ea-8a5c-e666ef6583bb.png)
 
+
+[[VAE_발표용.pptx](https://github.com/kdh4672/dlstudy/files/4942047/VAE_.pptx) ppt 다운로드]
