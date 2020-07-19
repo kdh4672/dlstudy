@@ -19,3 +19,8 @@
 
 
 [[VAE_발표용.pptx](https://github.com/kdh4672/dlstudy/files/4942047/VAE_.pptx)다운로드]
+
+## Weak 2.
+- TODO : Face Recognition with a low dataset
+
+[공대현 연구계획서.pdf](https://github.com/kdh4672/dlstudy/files/4943848/default.pdf)
