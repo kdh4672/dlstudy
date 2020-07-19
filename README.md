@@ -23,4 +23,4 @@
 ## Weak 2.
 - TODO : Face Recognition with a low dataset
 
-[Plan for Face Recognition.pdf](https://github.com/kdh4672/dlstudy/files/4943848/default.pdf)
+- Plan for Face Recognition [Plan.pdf](https://github.com/kdh4672/dlstudy/files/4943848/default.pdf)
