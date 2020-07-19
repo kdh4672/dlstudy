@@ -18,9 +18,9 @@
 ![VAE_result](https://user-images.githubusercontent.com/54311546/87406921-667b2b80-c5fc-11ea-8a5c-e666ef6583bb.png)
 
 
-[[VAE_발표용.pptx](https://github.com/kdh4672/dlstudy/files/4942047/VAE_.pptx)다운로드]
+[[VAE_발표용.pptx](https://github.com/kdh4672/dlstudy/files/4942047/VAE_.pptx) 다운로드]
 
 ## Weak 2.
 - TODO : Face Recognition with a low dataset
 
-[공대현 연구계획서.pdf](https://github.com/kdh4672/dlstudy/files/4943848/default.pdf)
+[Plan for Face Recognition.pdf](https://github.com/kdh4672/dlstudy/files/4943848/default.pdf)
