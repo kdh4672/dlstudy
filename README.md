@@ -19,8 +19,10 @@
 
 
 [[VAE_발표용.pptx](https://github.com/kdh4672/dlstudy/files/4942047/VAE_.pptx) 다운로드]
+## Plan (Weak 2~)
+- Plan for Face Recognition [[Plan.pdf](https://github.com/kdh4672/dlstudy/files/4943848/default.pdf)]
 
 ## Weak 2.
-- TODO : Face Recognition with a low dataset
+- TODO : GAN Tutorial
 
-- Plan for Face Recognition [[Plan.pdf](https://github.com/kdh4672/dlstudy/files/4943848/default.pdf)]
+
