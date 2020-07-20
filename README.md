@@ -24,5 +24,5 @@
 
 ## Weak 2.
 - TODO : GAN Tutorial
-
+- Tutorial Link: [[GAN_Tutorial](https://dreamgonfly.github.io/blog/gan-explained/)]
 
