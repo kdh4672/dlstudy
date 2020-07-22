@@ -25,4 +25,5 @@
 ## Weak 2.
 - TODO : GAN Tutorial
 - Tutorial Link: [[GAN_Tutorial](https://dreamgonfly.github.io/blog/gan-explained/)]
-
+- GAN_Paper :  [[GAN_Paper link](https://github.com/kdh4672/DH_Lab/blob/master/Interesting_Papers/GAN.pdf)]
+- Implementation Complemented! [[GAN Tutorial_Code](https://github.com/kdh4672/DH_Lab/blob/master/Deeplearning_Basic/GAN_Tutorial_Mnist.ipynb)]
