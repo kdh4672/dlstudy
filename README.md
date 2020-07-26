@@ -27,4 +27,4 @@
 - Tutorial Link: [[GAN_Tutorial](https://dreamgonfly.github.io/blog/gan-explained/)]
 - GAN_Paper :  [[GAN_Paper link](https://github.com/kdh4672/DH_Lab/blob/master/Interesting_Papers/GAN.pdf)]
 - Implementation Complemented! [[GAN Tutorial_Code](https://github.com/kdh4672/DH_Lab/blob/master/Deeplearning_Basic/GAN_Tutorial_Mnist.ipynb)]
-- Code Review : [[GAN - Jupyter Notebook.pdf](https://github.com/kdh4672/dlstudy/files/4976972/GAN.-.Jupyter.Notebook.1.pdf)]
+- Code Review : [[GAN - Jupyter Notebook.pdf](https://github.com/kdh4672/DH_Lab/blob/master/Deeplearning_Basic/GAN%20-%20Jupyter%20Notebook.pdf)]
