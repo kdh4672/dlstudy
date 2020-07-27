@@ -28,3 +28,5 @@
 - GAN_Paper :  [[GAN_Paper link](https://github.com/kdh4672/DH_Lab/blob/master/Interesting_Papers/GAN.pdf)]
 - Implementation Complemented! [[GAN Tutorial_Code](https://github.com/kdh4672/DH_Lab/blob/master/Deeplearning_Basic/GAN_Tutorial_Mnist.ipynb)]
 - Code Review : [[GAN - Jupyter Notebook.pdf](https://github.com/kdh4672/DH_Lab/blob/master/Deeplearning_Basic/GAN%20-%20Jupyter%20Notebook.pdf)]
+- Result: (lfw crop images (#13000)) 
+![epoch99](https://user-images.githubusercontent.com/54311546/88498013-ee016b00-cffc-11ea-95b9-b8115824de47.png)
