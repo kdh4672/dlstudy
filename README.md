@@ -32,4 +32,4 @@
 
 ![epoch99](https://user-images.githubusercontent.com/54311546/88498013-ee016b00-cffc-11ea-95b9-b8115824de47.png)
 
-[![Watch the video]((https://user-images.githubusercontent.com/54311546/88782546-a9c2c600-d1c8-11ea-96e6-a057cd0bbae0.jpg))](https://www.youtube.com/watch?v=0F1oqP9ooMA&feature=youtu.be)
+[![omygirl_screenshot](https://user-images.githubusercontent.com/54311546/88782755-eb537100-d1c8-11ea-9201-a6b832aae33c.png)](https://www.youtube.com/watch?v=0F1oqP9ooMA&feature=youtu.be)
