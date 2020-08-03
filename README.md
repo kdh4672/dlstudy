@@ -38,6 +38,6 @@
 - Face Detection Video (click photo to enter youtube link)
 [![omygirl_screenshot](https://user-images.githubusercontent.com/54311546/88782755-eb537100-d1c8-11ea-9201-a6b832aae33c.png)](https://www.youtube.com/watch?v=0F1oqP9ooMA&feature=youtu.be)
 
-## Weak 3
+## Weak 4
 - TODO : ArcFace Loss implementation
 
