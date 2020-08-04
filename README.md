@@ -40,4 +40,4 @@
 
 ## Weak 4
 - TODO : ArcFace Loss implementation
-
+- Code Reference: [[Repo1](https://github.com/TreB1eN/InsightFace_Pytorch)], [[Repo2](https://github.com/ronghuaiyang/arcface-pytorch)] ,[[Repo3](https://github.com/wujiyang/Face_Pytorch)]
