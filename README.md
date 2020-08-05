@@ -34,7 +34,7 @@
 ## Weak 3
 - TODO : Face Alignment
 - What are Used : dlib,opencv
-- Impelementation Code : [Dlib Code](https://github.com/kdh4672/DH_Lab/tree/master/Deeplearning_Basic/Dlib)
+- Impelementation Code : [[Dlib Code](https://github.com/kdh4672/DH_Lab/tree/master/Deeplearning_Basic/Dlib)]
 
 - Face Detection Video (click photo to enter youtube link)
 [![omygirl_screenshot](https://user-images.githubusercontent.com/54311546/88782755-eb537100-d1c8-11ea-9201-a6b832aae33c.png)](https://www.youtube.com/watch?v=0F1oqP9ooMA&feature=youtu.be)
