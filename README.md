@@ -43,3 +43,4 @@
 - TODO : ArcFace Loss implementation
 - Code Reference: [[Repo1](https://github.com/TreB1eN/InsightFace_Pytorch)], [[Repo2](https://github.com/ronghuaiyang/arcface-pytorch)] ,*[[Repo3](https://github.com/wujiyang/Face_Pytorch)]
 - ArcFace Paper Review : [[ArcFace](https://github.com/kdh4672/DH_Lab/blob/master/Paper_Review/Arcface.pdf)]
+- [Arcface.pptx](https://github.com/kdh4672/dlstudy/files/5069368/Arcface.pptx)
