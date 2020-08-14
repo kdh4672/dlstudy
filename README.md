@@ -44,6 +44,6 @@
 - Code Reference: [[Repo1](https://github.com/TreB1eN/InsightFace_Pytorch)], [[Repo2](https://github.com/ronghuaiyang/arcface-pytorch)] ,*[[Repo3](https://github.com/wujiyang/Face_Pytorch)]
 - ArcFace Paper Review : [[ArcFace](https://github.com/kdh4672/DH_Lab/blob/master/Paper_Review/Arcface.pdf)]
 - Presentation File : [[Arcface.pptx](https://github.com/kdh4672/Face_Recognition_With_ArcFace/files/5069538/Arcface.pptx)]
-- Test1 : Centor is Kong not perfect but almost
+- Test1 : Center is Kong,  Not perfect but almost
 ![result](https://user-images.githubusercontent.com/54311546/90228642-89923880-de51-11ea-9c1c-af1dea9c4466.gif)
 
