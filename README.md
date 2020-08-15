@@ -47,6 +47,7 @@
 - Test1 : Center is Kong,  Not perfect but almost
 ![result](https://user-images.githubusercontent.com/54311546/90228642-89923880-de51-11ea-9c1c-af1dea9c4466.gif)
 - Test2 : Added Confidential Score
+
 ![confidence](https://user-images.githubusercontent.com/54311546/90315291-3bfef400-df55-11ea-9d35-2819bf5dec30.gif)
 
 
