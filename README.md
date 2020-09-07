@@ -66,7 +66,7 @@
 ![output_sim](https://user-images.githubusercontent.com/54311546/92383637-aa486800-f149-11ea-9c24-0bb817e408c4.gif)
 
 
--Three People:
+- Three People:
 
 ![output](https://user-images.githubusercontent.com/54311546/92383726-d19f3500-f149-11ea-886c-e5c305c9fad6.gif)
 
