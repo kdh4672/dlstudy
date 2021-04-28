@@ -2,7 +2,7 @@
 
 # Project List
 
-## Weak 1.
+## Weak 1. (VAE)
 - TODO : Training VAE by my face dataset to see distribution of face dataset.
 - Implementation Complemented! [[Face_VAE_Code](https://github.com/kdh4672/Face_VAE/blob/master/VAE/VAE_Face.py)]
 - VAE_Paper :  [[VAE_Paper link](https://arxiv.org/pdf/1312.6114.pdf?source=post_page---------------------------)]
