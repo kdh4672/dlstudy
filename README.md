@@ -49,7 +49,7 @@
 - Test2 : Added Confidential Score
 
 ![confidence](https://user-images.githubusercontent.com/54311546/90315291-3bfef400-df55-11ea-9d35-2819bf5dec30.gif)
-
+<!-- 
 
 ## Weak 5
 - TODO : Upgrade Face recognition performance
@@ -70,4 +70,4 @@
 
 ![output](https://user-images.githubusercontent.com/54311546/92383726-d19f3500-f149-11ea-886c-e5c305c9fad6.gif)
 
-
+ -->
