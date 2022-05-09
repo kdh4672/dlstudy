@@ -39,7 +39,7 @@
 - Face Detection Video (click photo to enter youtube link)
 [![omygirl_screenshot](https://user-images.githubusercontent.com/54311546/88782755-eb537100-d1c8-11ea-9201-a6b832aae33c.png)](https://www.youtube.com/watch?v=0F1oqP9ooMA&feature=youtu.be)
 
-## Weak 4
+<!-- ## Weak 4
 - TODO : ArcFace Loss implementation
 - Code Reference: [[Repo1](https://github.com/TreB1eN/InsightFace_Pytorch)], [[Repo2](https://github.com/ronghuaiyang/arcface-pytorch)] ,*[[Repo3](https://github.com/wujiyang/Face_Pytorch)]
 - ArcFace Paper Review : [[ArcFace](https://github.com/kdh4672/DH_Lab/blob/master/Paper_Review/Arcface.pdf)]
@@ -50,7 +50,7 @@
 
 ![confidence](https://user-images.githubusercontent.com/54311546/90315291-3bfef400-df55-11ea-9d35-2819bf5dec30.gif)
 
-
+ -->
 <!-- ## Weak 5
 - TODO : Upgrade Face recognition performance
 - What's New : Extract Featrues'degree Compared to Center, and the second nearest degree, Apply Thresh Hold at degree 30
